@@ -1,5 +1,5 @@
 ---
-title: Recipes
+title: Artistes
 layout: collection
 permalink: /recipes/
 collection: recipes
